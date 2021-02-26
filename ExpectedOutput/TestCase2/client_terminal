@@ -1,0 +1,408 @@
+./client ../Testcases/TestCase2 2
+[Fri Apr  3 22:22:57 2020]Client starts...
+[Fri Apr  3 22:22:57 2020]Directory ../Testcases/TestCase2 traversal and file partitioning...
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xbh.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xam.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xbh.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xaf.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xam.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xbg.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xaf.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xbi.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xbg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xaa.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xbi.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xac.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xaa.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xap.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xac.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xao.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xao.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xag.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xap.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xad.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xag.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xae.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xad.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xaj.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xae.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xab.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xaj.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xak.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xab.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xai.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xak.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xan.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xai.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xah.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xan.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xbj.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F1/xah.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xeb.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xbj.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F1/xal.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xeb.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xdz.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F1/xal.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xep.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xdz.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xei.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xep.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xdw.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xei.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xeh.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xdw.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xej.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xeh.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xef.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xej.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xec.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xef.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xdx.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xec.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xee.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xee.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xeo.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xdx.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xek.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xeo.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xem.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xek.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xeg.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xem.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xdy.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xeg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xel.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xdy.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xed.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xel.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xen.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xed.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F6/xea.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F6/xen.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcs.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcs.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F6/xea.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcx.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcr.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcx.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcp.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xcr.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xco.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcp.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xco.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcl.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcq.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcl.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xcq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xdb.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xck.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xdb.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xck.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xci.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xda.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xci.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xda.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcj.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcu.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcj.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xcu.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcn.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcz.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcn.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xcz.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcv.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xct.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcv.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xct.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcw.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcy.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xcw.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F4/xcm.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F4/xcy.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xde.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F4/xcm.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdm.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xde.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdr.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdm.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdu.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdr.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdi.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdu.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdq.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdi.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdk.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdn.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdk.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xds.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdn.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdh.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xds.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdv.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdh.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdc.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdv.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdc.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdj.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdp.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdj.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdp.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdl.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdo.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdl.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdo.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdg.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdf.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdd.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdf.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F5/xdt.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F5/xdd.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F5/xdt.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xex.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfg.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xex.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfd.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xfg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xev.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xfd.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfa.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xev.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfi.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xfa.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xff.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xfi.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xer.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xff.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfe.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xer.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xew.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xfe.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfh.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xew.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xes.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xfh.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xeu.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xes.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfj.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xeu.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xet.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xfj.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xey.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xet.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xeq.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xey.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xez.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xeq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfb.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xez.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F7/xfc.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F7/xfb.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfm.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F7/xfc.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfq.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfm.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfo.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfu.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfo.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfw.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfu.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfy.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfw.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xgd.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xgd.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xgb.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfy.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xga.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xgb.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfx.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xga.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xft.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfx.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfv.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xft.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfv.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfl.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfs.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfs.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfz.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfl.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfr.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfz.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfk.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfr.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F8/xfk.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfn.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbe.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfn.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbe.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xfp.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbd.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xfp.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbd.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F8/xgc.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbb.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F8/xgc.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbf.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbb.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xar.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xbf.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xaq.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xar.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbk.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xaq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xau.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbk.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbn.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xau.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xat.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbn.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xaw.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xat.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xas.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xaw.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbl.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xas.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xav.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbl.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbc.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xav.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xba.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbc.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xbm.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xba.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F2/xbm.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xay.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgg.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xay.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xaz.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgi.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xaz.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgi.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F2/xax.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgn.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgn.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F2/xax.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgl.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgt.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgl.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xge.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgt.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgv.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xge.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgu.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgv.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgs.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgu.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgw.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgs.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgr.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgw.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgf.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgr.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgf.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgh.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgk.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgh.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgk.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgo.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgx.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgo.txt
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F9/xgx.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgp.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbw.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgp.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgm.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xbw.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xcc.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgm.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgj.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xcc.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbp.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgj.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F9/xgq.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xbp.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F9/xgq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xcf.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xch.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xcf.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xch.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbz.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbt.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xbt.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xby.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xbz.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xcd.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xby.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbo.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xcd.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbu.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xbo.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbx.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xbu.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbr.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xbx.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xca.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xbr.txt
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xca.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbv.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbq.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xbv.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xcg.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xbq.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xcb.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F3/xcg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhn.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xcb.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xce.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhn.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhd.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xce.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F3/xbs.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhd.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhr.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F3/xbs.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhc.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhr.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhh.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhc.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xha.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhh.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhb.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xha.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xgy.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhb.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhj.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xgy.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhe.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhj.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xho.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhe.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xgz.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xho.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhf.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xgz.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhp.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhf.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhm.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhp.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhi.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhm.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhq.txt from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhi.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhl.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 0 received ACK from server for ../Testcases/TestCase2/F10/xhq.txt
+[Fri Apr  3 22:22:57 2020]Sending END from client process 0
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhl.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhg.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhg.txt
+[Fri Apr  3 22:22:57 2020]Sending ../Testcases/TestCase2/F10/xhk.txt from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 1 received ACK from server for ../Testcases/TestCase2/F10/xhk.txt
+[Fri Apr  3 22:22:57 2020]Sending END from client process 1
+[Fri Apr  3 22:22:57 2020]Client process 1 received |||1345#1039#1754#1037#771#629#611#731#676#144#206#531#1062#735#701#1887#96#889#2067#1008#1234#291#385#29#62#80#||| from server
+[Fri Apr  3 22:22:58 2020]Client process 0 received |||1345#1039#1754#1037#771#629#611#731#676#144#206#531#1062#735#701#1887#96#889#2067#1008#1234#291#385#29#62#80#||| from server
+[Fri Apr  3 22:22:58 2020]Client ends...

@@ -1,0 +1,5 @@
+./server 2
+[Fri Apr  3 22:19:05 2020]Server starts...
+[Fri Apr  3 22:19:05 2020]Waiting to rcv from client process 0
+[Fri Apr  3 22:19:05 2020]Waiting to rcv from client process 1
+
